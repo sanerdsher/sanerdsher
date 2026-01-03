@@ -1,5 +1,5 @@
 # PGP key
-[Download key][key] [[1]][key mirror 1] [[2]][key mirror 2] [[3]][key mirror 3].
+[Download key][key] [[1]][key mirror 1] [[2]][key mirror 2] [[3]][key mirror 3] [[4]][key mirror 4] [[5]][key mirror 5].
 
 ```
 pub   ed25519/1C8FFC9DE23885B1 2022-03-07 [C] [expires: 2042-01-01]
@@ -16,3 +16,5 @@ sub   cv25519/498670D7CC618E5A 2026-01-02 [E] [expires: 2028-01-01]
 [key mirror 1]: https://github.com/sanerdsher.gpg
 [key mirror 2]: https://keys.openpgp.org/vks/v1/by-fingerprint/A6C92D4B65B58D8B951AD2981C8FFC9DE23885B1
 [key mirror 3]: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xa6c92d4b65b58d8b951ad2981c8ffc9de23885b1
+[key mirror 4]: https://pgp.surf.nl/pks/lookup?search=A6C9+2D4B+65B5+8D8B+951A++D298+1C8F+FC9D+E238+85B1&fingerprint=on&op=index
+[key mirror 5]: https://keybase.io/sanerdsher#show-public
